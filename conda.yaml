@@ -1,0 +1,14 @@
+name: call-center-simulator
+channels:
+  - defaults
+  - conda-forge
+  - asmeurer
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - jupyter
+  - simpy
